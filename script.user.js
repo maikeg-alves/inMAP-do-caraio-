@@ -8,8 +8,8 @@
 // @icon          data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @run-at        document-start
 // @grant         none
-// @updateURL     https://raw.githubusercontent.com/maikeg-alves/[repo]/main/script.meta.js
-// @downloadURL   https://github.com/maikeg-alves/[repo]/releases/latest/download/script.user.js
+// @updateURL     https://raw.githubusercontent.com/maikeg-alves/inMAP-do-caraio-/main/script.meta.js
+// @downloadURL   https://github.com/maikeg-alves/inMAP-do-caraio-/releases/latest/download/script.user.js
 // ==/UserScript==
 
 console.log(`[Opa] readyState: ${document.readyState}`);
